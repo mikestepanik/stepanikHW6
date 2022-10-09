@@ -1,0 +1,15 @@
+This is a test for...
+Homework 6 in CPE-422...
+Reading the cotents of this file line by line...
+Then writing the contents to another file...
+
+This is line number 6.
+This is line number 7.
+This is line number 8.
+This is line number 9.
+This is line number 10.
+This is line number 11.
+This is line number 12.
+This is line number 13.
+This is line number 14.
+This is line number 15.
